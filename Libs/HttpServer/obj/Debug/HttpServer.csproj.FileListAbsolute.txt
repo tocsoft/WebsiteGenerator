@@ -1,0 +1,6 @@
+C:\Users\scott\Projects\WebsiteGenerator\Libs\HttpServer\bin\Debug\HttpServer.dll.config
+C:\Users\scott\Projects\WebsiteGenerator\Libs\HttpServer\bin\Debug\HttpServer.dll
+C:\Users\scott\Projects\WebsiteGenerator\Libs\HttpServer\bin\Debug\HttpServer.pdb
+C:\Users\scott\Projects\WebsiteGenerator\Libs\HttpServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\scott\Projects\WebsiteGenerator\Libs\HttpServer\obj\Debug\HttpServer.dll
+C:\Users\scott\Projects\WebsiteGenerator\Libs\HttpServer\obj\Debug\HttpServer.pdb

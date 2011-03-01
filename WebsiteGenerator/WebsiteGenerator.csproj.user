@@ -1,0 +1,6 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartWorkingDirectory>C:\Users\scott\Projects\WebsiteGenerator\Sample</StartWorkingDirectory>
+    <StartArguments>-1 C:\Users\scott\Projects\WebsiteGenerator\SampleExport1\Test</StartArguments>
+  </PropertyGroup>
+</Project>

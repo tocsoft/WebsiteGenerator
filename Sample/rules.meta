@@ -1,0 +1,29 @@
+[
+{
+Filter : '*.html',
+Process :'Spark',
+Order : 1
+},
+{
+Filter : '*.master',
+Process :'Skip',
+Order : 1
+},
+{
+Filter : 'rules.meta',
+Process :'Skip',
+Order : 1
+},
+{
+Filter : '*.css',
+Process :'Less',
+Order : 1,
+Settings : {compress:false}
+},
+{
+Filter : '*.js',
+Process :'JsMin',
+Order : 1,
+Settings : {compress:false}
+}
+]

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebsiteGenerator", "WebsiteGenerator\WebsiteGenerator.csproj", "{B2591A3E-9D7C-4DF7-9C96-8EBA8CF5AC41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpServer", "Libs\HttpServer\HttpServer.csproj", "{363D4A84-957E-4CDA-ACB7-EEDE603FDD81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2591A3E-9D7C-4DF7-9C96-8EBA8CF5AC41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2591A3E-9D7C-4DF7-9C96-8EBA8CF5AC41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2591A3E-9D7C-4DF7-9C96-8EBA8CF5AC41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2591A3E-9D7C-4DF7-9C96-8EBA8CF5AC41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{363D4A84-957E-4CDA-ACB7-EEDE603FDD81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363D4A84-957E-4CDA-ACB7-EEDE603FDD81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363D4A84-957E-4CDA-ACB7-EEDE603FDD81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363D4A84-957E-4CDA-ACB7-EEDE603FDD81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

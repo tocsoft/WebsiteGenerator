@@ -1,0 +1,17 @@
+C:\Users\scott\Projects\WebsiteGenerator\WebsiteGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\scott\Projects\WebsiteGenerator\WebsiteGenerator\obj\Debug\WebsiteGenerator.Properties.Resources.resources
+C:\Users\scott\Projects\WebsiteGenerator\WebsiteGenerator\obj\Debug\WebsiteGenerator.csproj.GenerateResource.Cache
+C:\Users\scott\Projects\WebsiteGenerator\WebsiteGenerator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\scott\Projects\WebsiteGenerator\WebsiteGenerator\bin\Debug\Spark.dll
+C:\Users\scott\Projects\WebsiteGenerator\WebsiteGenerator\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\scott\Projects\WebsiteGenerator\WebsiteGenerator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\scott\Projects\WebsiteGenerator\WebsiteGenerator\bin\Debug\Spark.pdb
+C:\Users\scott\Projects\WebsiteGenerator\WebsiteGenerator\bin\Debug\HttpServer.dll
+C:\Users\scott\Projects\WebsiteGenerator\WebsiteGenerator\bin\Debug\HttpServer.pdb
+C:\Users\scott\Projects\WebsiteGenerator\WebsiteGenerator\bin\Debug\HttpServer.xml
+C:\Users\scott\Projects\WebsiteGenerator\WebsiteGenerator\bin\Debug\dotless.Core.dll
+C:\Users\scott\Projects\WebsiteGenerator\WebsiteGenerator\bin\Debug\dotless.Core.pdb
+C:\Users\scott\Projects\WebsiteGenerator\WebsiteGenerator\bin\Debug\site.exe
+C:\Users\scott\Projects\WebsiteGenerator\WebsiteGenerator\bin\Debug\site.pdb
+C:\Users\scott\Projects\WebsiteGenerator\WebsiteGenerator\obj\Debug\site.exe
+C:\Users\scott\Projects\WebsiteGenerator\WebsiteGenerator\obj\Debug\site.pdb
